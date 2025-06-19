@@ -84,3 +84,20 @@ Screenshots of visualizations can be found in the `visuals/` folder _(if added)_
 
 ## 🗂️ Project Structure
 
+---
+
+## 📊 Power BI Dashboard
+
+In addition to Python-based insights, this project includes a fully interactive **Power BI dashboard** that shows:
+
+- KPIs (Total Sales, Orders, Quantity, AOV)
+- Product-wise and City-wise breakdown
+- Monthly trend analysis
+- Dynamic slicers for filtering
+- Tooltips for in-depth insights
+
+![Dashboard Preview](visuals/dashboard-preview.png)
+
+👉 [Download Dashboard](./SalesDashboard.pbix)
+
+
